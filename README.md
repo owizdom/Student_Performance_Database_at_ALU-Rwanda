@@ -31,6 +31,7 @@ python_grades(course_id, course_name, student_id, grade_obtained)
 ```
 --
 
+```
 ## Entity Relationship Diagram (ERD):
 
    students
@@ -47,7 +48,7 @@ python_grades(course_id, course_name, student_id, grade_obtained)
    | student_id  |--------------------+   | student_id  |
    | grade       |                        | grade       |
    +-------------+                        +-------------+
-
+````
 --
 
 ## Setup Instructions
